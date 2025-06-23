@@ -20,4 +20,4 @@ x = int(input("Haftani kiriting: "))
 
 sana = bugun + timedelta(weeks=x)
 
-print(sana.strftime(f"{x} haftadan keyingi sana %m - %B . Hafatning %A kuni bo'ladi "))
+print(sana.strftime(f"{x} haftadan keyingi sana %m - %B %Y - yil. Hafatning %A kuni bo'ladi "))
