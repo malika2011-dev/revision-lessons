@@ -33,7 +33,7 @@ keyingi_sana = sana - timedelta(weeks =8, hours= 325, minutes=854)
 print(f"{(keyingi_sana)}")
 
 
-"""2-mahshq"""
+"""2-mashq"""
 
 yil = int(input("Yilni kiriitng (maktabga birinchi borgan): "))
 oy = int(input("Oyni kiriting (maktabga birinchi borgan): "))
